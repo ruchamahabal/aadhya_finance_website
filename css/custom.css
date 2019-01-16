@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Staatliches');
+
+
+body {
+  font-family: 'raleway',sans-serif;
+  overflow-x: hidden;
+}
+
+.navbar a{
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: 'raleway';
+}
