@@ -28,7 +28,7 @@
   </head>
   <body>
     <!-- mega menu -->
-	 <div class="content">
+	 <!-- <div class="content">
 	 
 		<ul class="exo-menu">
 			<li><a class="active" href="#"><i class="fa fa-home"></i> Home</a></li>
@@ -105,5 +105,5 @@
 			</li>
 			<a href="#" class="toggle-menu visible-xs-block">|||</a>	
 </ul> 
-	 </div>
+	 </div> -->
 <!-- /mega menu -->
