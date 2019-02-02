@@ -25,7 +25,7 @@
                     </div>
                     <h3 class="title">Aadhya Digi-way</h3>
                     <p class="description">
-                        With our digital processes and easy documentation, complex paperwork is now a thing of the past
+                        With our digital  processes and easy documentation, complex paperwork is now a thing of the past
                     </p>
                     <a class="read-more" href="">Read More</a>
                 </div>
@@ -46,4 +46,4 @@
     </div>
 </section>
 
-<?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>-+
