@@ -43,7 +43,7 @@
 											<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Cash In My Account</a>
 											<div class="dropdown-divider"></div>
 											<h6 class="nav-sub-heading">Personal Loan</h6>
-											<a class="dropdown-item" href="for_me_pages/travel.php"><i class="fas fa-plane"></i>Travel</a>
+											<a class="dropdown-item" href="for-me-pages/travel.php"><i class="fas fa-plane"></i>Travel</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-graduation-cap"></i>Education</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-heart"></i>Wedding</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-wheelchair"></i>Medical Emergency</a>
