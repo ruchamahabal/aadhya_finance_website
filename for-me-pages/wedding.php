@@ -87,14 +87,14 @@
         <div class="card-header" id="headingOne">
         <h4 class="mb-0">
             <button class="btn" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                How do I avail a personal loan for wedding from Aadhya?
+                How do I avail a personal loan for wedding from Aadhya Finance?
             </button>
         </h4>
         </div>
 
         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
         <div class="card-body">
-        All you need to do is just Clix here! 
+        All you need to do is just click here! 
         </div>
         </div>
     </div>
@@ -102,13 +102,13 @@
         <div class="card-header" id="headingTwo">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            Do I need any collateral to avail the education loan?
+             What will be the tenure, down-payment, EMI and interest rate for my loan?
             </button>
         </h4>
         </div>
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
         <div class="card-body">
-            Not at all! We don’t need any additional collateral or guarantors for your loan.
+        At Clix, you can choose from customized repayment (EMI) and down payment options. But the interest rate depends on factors such as the specifics in your application such as age and income. We’ll tell you the final applicable interest rate once we go through your application form and supporting documents.
         </div>
         </div>
     </div>
@@ -116,13 +116,29 @@
         <div class="card-header" id="headingThree">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-               How can I reach out to Aadhya for any other information on my loan
+               Do I need any collateral to avail a personal loan for weddings?
             </button>
         </h4>
         </div>
         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
         <div class="card-body">
-        It’s as easy as our loan applications! Just call us on 0124-4545965 or 0124- 3817400 between 9:30am-6:30pm from Monday to Saturday (except public holidays, of course) or write to us at: hello@clix.capital
+            Not at all! We don’t need any additional collateral or guarantors for your loan.
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+             How can I reach out to Aadhya finance for any other information on my loan?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
+        It’s as easy as our loan applications!
+
+Just call us on 0124-4545965 or 0124- 3817400 between 9:30am-6:30pm from Monday to Saturday (except public holidays, of course) or write to us at: hello@clix.capita
         </div>
         </div>
     </div>
