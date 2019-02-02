@@ -11,11 +11,11 @@
 
     <!-- custom css -->
     <link rel="stylesheet" href="css/custom.css">
-    
+
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-		
+
 		<!-- Optional JavaScript -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
@@ -43,7 +43,7 @@
 											<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Cash In My Account</a>
 											<div class="dropdown-divider"></div>
 											<h6 class="nav-sub-heading">Personal Loan</h6>
-											<a class="dropdown-item" href="#"><i class="fas fa-plane"></i>Travel</a>
+											<a class="dropdown-item" href="for_me_pages/travel.php"><i class="fas fa-plane"></i>Travel</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-graduation-cap"></i>Education</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-heart"></i>Wedding</a>
 											<a class="dropdown-item" href="#"><i class="fas fa-wheelchair"></i>Medical Emergency</a>
