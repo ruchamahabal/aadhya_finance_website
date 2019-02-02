@@ -1,4 +1,4 @@
-<?php include '../header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/header.php'; ?>
 <div class="container">
 
 <section>
@@ -19,7 +19,6 @@
 
 <section id="services">
      <h3 class="heading" align="center">Here's what we have to offer</h3>
-
      <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-8">
@@ -43,7 +42,7 @@
                     <p class="description">
                         With our digital  processes and easy documentation, complex paperwork is now a thing of the past
                     </p>
-                    <a class="read-more" href="">Read More</a>
+                    <!-- <a class="read-more" href="">Read More</a> -->
                 </div>
             </div>
             <div class="col-md-4 col-sm-8">
@@ -55,7 +54,7 @@
                     <p class="description">
                         Be it for a dream house, bike, or vacation — you’ll have your loan just when you need it
                     </p>
-                    <a class="read-more" href="">Read More</a>
+                    <!-- <a class="read-more" href="">Read More</a> -->
                 </div>
             </div>
         </div>

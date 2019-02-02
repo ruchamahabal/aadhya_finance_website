@@ -1,4 +1,4 @@
-<?php include_once 'header.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/header.php';?>
 
 <!-- our services -->
 <section id="services">
@@ -46,4 +46,4 @@
     </div>
 </section>
 
-<?php include_once 'footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/includes/footer.php'; ?>
