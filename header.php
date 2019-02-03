@@ -58,7 +58,7 @@
 											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/wedding.php"><i class="fas fa-heart"></i>Wedding</a>
 											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/medical-emergency.php"><i class="fas fa-wheelchair"></i>Medical Emergency</a>
 											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/home-renovation-or-expansion.php"><i class="fas fa-house-damage"></i>Home Renovation/Expansion</a>
-											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/loan-against-property"><i class="far fa-building"></i>Loan Against Property</a>
+											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/loan-against-property.php"><i class="far fa-building"></i>Loan Against Property</a>
 										</div>
 										<div class="col">
 											<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Buy</a>
