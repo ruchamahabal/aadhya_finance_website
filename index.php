@@ -46,4 +46,4 @@
     </div>
 </section>
 
-<?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/includes/footer.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/footer.php'; ?>

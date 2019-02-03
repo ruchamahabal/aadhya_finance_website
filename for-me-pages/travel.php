@@ -84,7 +84,7 @@
   <div class="row row-eq-height">
     <div class="col">
       <center>
-      <div class="card border-primary mb-3 h-100">
+      <div class="card documents-cards border-primary mb-3">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/form.svg" alt="">
         </div>
@@ -97,7 +97,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-danger mb-3 h-100">
+      <div class="card documents-cards border-danger mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/picture.svg" alt="">
         </div>
@@ -110,7 +110,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-success mb-3 h-100">
+      <div class="card documents-cards border-success mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/fingerprint.svg" alt="">
         </div>
@@ -123,7 +123,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-info mb-3 h-100">
+      <div class="card documents-cards border-info mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/house.svg" alt="">
         </div>
@@ -136,7 +136,7 @@
     </div>
     <div class="col">
         <center>
-        <div class="card border-warning mb-3 h-100">
+        <div class="card documents-cards border-warning mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/wallet.svg" alt="">
             </div>
@@ -193,7 +193,7 @@
     <h3 class="heading" align="center">Questions</h3>
     <div class="container">
     <div class="accordion" id="accordionExample">
-    <div class="card">
+    <div class="card ">
         <div class="card-header" id="headingOne">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -208,7 +208,7 @@
         </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card ">
         <div class="card-header" id="headingTwo">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -222,7 +222,7 @@
         </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card ">
         <div class="card-header" id="headingThree">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -236,7 +236,7 @@
         </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card ">
         <div class="card-header" id="headingThree">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">

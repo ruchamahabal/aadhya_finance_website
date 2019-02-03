@@ -9,8 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/css/bootstrap.min.css">
 
-    <!-- custom css -->
-    <link rel="stylesheet" href= "<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/css/custom.css">
+
 
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -21,13 +20,17 @@
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script type="text/javascript" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/js/jquery.min.js"></script>
-	
+
 	<!-- popover jquery -->
 	<script>
 		$(function () {
 			$('[data-toggle="popover"]').popover()
 			});
 	</script>
+
+  <!-- custom css -->
+  <link rel="stylesheet" href= "<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/css/custom.css">
+  
   </head>
   <body>
 <!-- mega menu -->

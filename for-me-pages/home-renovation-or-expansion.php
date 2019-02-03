@@ -71,7 +71,7 @@
   <div class="row row-eq-height">
     <div class="col">
       <center>
-      <div class="card border-primary mb-3 h-100">
+      <div class="card documents-cards border-primary mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/form.svg" alt="">
         </div>
@@ -84,7 +84,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-danger mb-3 h-100">
+      <div class="card documents-cards border-danger mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/picture.svg" alt="">
         </div>
@@ -97,7 +97,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-success mb-3 h-100">
+      <div class="card documents-cards border-success mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/fingerprint.svg" alt="">
         </div>
@@ -110,7 +110,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-info mb-3 h-100">
+      <div class="card documents-cards border-info mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/house.svg" alt="">
         </div>
@@ -125,7 +125,7 @@
   <div class="row">
     <div class="col">
         <center>
-        <div class="card border-warning mb-3 h-100">
+        <div class="card documents-cards border-warning mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/wallet.svg" alt="">
             </div>
@@ -138,7 +138,7 @@
     </div>
     <div class="col">
         <center>
-        <div class="card border-primary mb-3 h-100">
+        <div class="card documents-cards border-primary mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/money.svg" alt="">
             </div>
@@ -151,7 +151,7 @@
     </div>
     <div class="col">
         <center>
-        <div class="card border-danger mb-3 h-100">
+        <div class="card documents-cards border-danger mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/self-employed.svg" alt="">
             </div>
@@ -164,7 +164,7 @@
     </div>
     <div class="col">
         <center>
-        <div class="card border-success mb-3 h-100">
+        <div class="card documents-cards border-success mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/wallet.svg" alt="">
             </div>
@@ -232,7 +232,7 @@
 
         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
         <div class="card-body">
-        All you need to do is just click here! 
+        All you need to do is just click here!
         </div>
         </div>
     </div>
@@ -282,5 +282,5 @@ Just call us on 0124-4545965 or 0124- 3817400 between 9:30am-6:30pm from Monday 
     </div>
     </div>
     </div>
-</section>    
+</section>
 <?php include '../footer.php'; ?>

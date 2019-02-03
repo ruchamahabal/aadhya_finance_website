@@ -119,7 +119,7 @@
   <div class="row row-eq-height">
     <div class="col">
       <center>
-      <div class="card border-primary mb-3 h-100">
+      <div class="card documents-cards border-primary mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/form.svg" alt="">
         </div>
@@ -132,7 +132,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-danger mb-3 h-100">
+      <div class="card documents-cards border-danger mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/picture.svg" alt="">
         </div>
@@ -145,7 +145,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-success mb-3 h-100">
+      <div class="card documents-cards border-success mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/fingerprint.svg" alt="">
         </div>
@@ -158,7 +158,7 @@
     </div>
     <div class="col">
       <center>
-      <div class="card border-info mb-3 h-100">
+      <div class="card documents-cards border-info mb-3 ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/house.svg" alt="">
         </div>
@@ -171,7 +171,7 @@
     </div>
     <div class="col">
         <center>
-        <div class="card border-warning mb-3 h-100">
+        <div class="card documents-cards border-warning mb-3 ">
             <div class="card-header">
                 <img style="max-width:60px;" src="../assets/images/wallet.svg" alt="">
             </div>
@@ -234,5 +234,5 @@
     </div>
     </div>
     </div>
-</section>    
+</section>
 <?php include '../footer.php'; ?>

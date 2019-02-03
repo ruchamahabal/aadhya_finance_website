@@ -10,10 +10,10 @@ body{
  section{
      margin:30px;
  }
-  
+
 /* =========== mega menu ============= */
 .flex-fill {
-    flex:1;   
+    flex:1;
  }
  .site-header a {
      color: black;
@@ -51,7 +51,7 @@ body{
       padding: 4px 10px;
       margin: 14px;
   }
-  .dropdown-item i { 
+  .dropdown-item i {
     float: left;
     font-size: 18px;
     margin-right: 6px;
@@ -61,7 +61,7 @@ body{
     border-radius: 50%;
     text-align: center;
     background-color: #009FE1;
-    line-height: 35px !important; 
+    line-height: 35px !important;
     }
     .dropdown-item{
         text-align: center;
@@ -377,6 +377,14 @@ background: #57AACD;
         transform: translate(-50%,0);
     }
 }
+
+/* ========================================= Document cards  */
+
+.documents-cards {
+	height: 200px;
+}
+
+
  /* ===================== Requirements =================== */
 #questions .container{
     margin-bottom: 50px;
