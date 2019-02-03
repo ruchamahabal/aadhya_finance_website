@@ -226,7 +226,7 @@
         <div class="card-header" id="headingOne">
         <h4 class="mb-0">
             <button class="btn" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                How do I avail a loan against property from Clix?
+                How do I avail a loan against property from Aadhya Finance?
             </button>
         </h4>
         </div>
@@ -241,7 +241,7 @@
         <div class="card-header" id="headingTwo">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-             What will be the tenure, down-payment, EMI and interest rate for my loan?
+             What will be the tenure, down-payment, EMI and interest rate for my loan against property?
             </button>
         </h4>
         </div>
@@ -255,29 +255,106 @@
         <div class="card-header" id="headingThree">
         <h4 class="mb-0">
             <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-               Do I need any collateral to avail a personal loan for weddings?
+               What are the different type of home loans offered by Aadhya Finance?
             </button>
         </h4>
         </div>
         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
         <div class="card-body">
-            Not at all! We don’t need any additional collateral or guarantors for your loan.
+        We like variety, so you can choose from:<br>
+1. Home loan for a ready or under-construction residential property.<br>
+2. Home improvement/extension loan to finance the renovation (flooring, roofing, plastering, painting, plumbing electrical, etc.) or extension (construction of new floor or rooms within permissible building plan) of your existing property.<br>
+3. Loan against property (commercial or residential) by mortgaging a residential/commercial property.<br>
+4. Balance transfer and top-up your existing loan from any other housing finance company or bank.<br>
         </div>
         </div>
     </div>
     <div class="card">
         <div class="card-header" id="headingFour">
         <h4 class="mb-0">
-            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseTwo">
-             How can I reach out to Aadhya finance for any other information on my loan?
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+             What is an EMI?
             </button>
         </h4>
         </div>
         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
         <div class="card-body">
+        You repay a loan in Equated Monthly Installments (EMIs) — which just translates into an amount that combines your principal and interest. Your EMIs begin the month after your full loan amount is disbursed.
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingFive">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+             What is Pre-EMI?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+        <div class="card-body">
+        The pre-EMI is the interest you paid on the loan amount you receive before your EMIs begin. This usually happens in self construction or construction stage-linked/partly disbursed cases. 
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseTwo">
+             What is an amortization schedule?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseSix" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
+        An amortization schedule has details on how you can repay your loan, as well as the division between principal and interest charged in each EMI. 
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseTwo">
+             What governs my home loan repayment?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseSeven" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
+        Your home loan repayment is done though a NACH Debit Mandate.
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingEight">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseTwo">
+             What are the types of interest rates offered?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+        <div class="card-body">
+        Two kinds, because life is all about choices:<br>
+a) Floating<br>
+b) Fixed for the first 24 to 36 months, followed by floating
+        </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" id="headingTwo">
+        <h4 class="mb-0">
+            <button class="btn collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseTwo">
+             How can I reach out to Aadhya Finance for any other information on my loan?
+            </button>
+        </h4>
+        </div>
+        <div id="collapseNine" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
         It’s as easy as our loan applications!
 
-Just call us on 0124-4545965 or 0124- 3817400 between 9:30am-6:30pm from Monday to Saturday (except public holidays, of course) or write to us at: hello@clix.capita
+Just call us on 0124-4545965 or 0124- 3817400 between 9:30am-6:30pm from Monday to Saturday (except public holidays, of course) or write to us at: hello@clix.capital
+
         </div>
         </div>
     </div>
