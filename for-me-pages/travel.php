@@ -1,7 +1,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/header.php'; ?>
-<div class="container-fluid">
+
 
 <section>
+  <div class="container-fluid">
   <div class="row">
     <div class="col">
       <div class="container">
@@ -14,6 +15,7 @@
       <!-- animation will come here -->
     </div>
   </div>
+</div>
 </section>
 
 

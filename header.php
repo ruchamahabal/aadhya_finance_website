@@ -30,7 +30,7 @@
 
   <!-- custom css -->
   <link rel="stylesheet" href= "<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/css/custom.css">
-  
+
   </head>
   <body>
 <!-- mega menu -->
@@ -63,10 +63,10 @@
 										<div class="col">
 											<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Buy</a>
 											<div class="dropdown-divider"></div>
-											<a class="dropdown-item" href="#"><i class="fas fa-motorcycle"></i>2 Wheeler</a>
-											<a class="dropdown-item" href="#"><i class="fas fa-mobile-alt"></i>Mobile</a>
-											<a class="dropdown-item" href="#"><i class="fas fa-home"></i>Home Loan</a>
-											<a class="dropdown-item" href="#"><i class="fas fa-car"></i>Pre-Owned Car</a>
+											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/buy-two-wheeler.php"><i class="fas fa-motorcycle"></i>2 Wheeler</a>
+											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/buy-mobile.php"><i class="fas fa-mobile-alt"></i>Mobile</a>
+											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/home-loan.php"><i class="fas fa-home"></i>Home Loan</a>
+											<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/buy-pre-owned-car.php"><i class="fas fa-car"></i>Pre-Owned Car</a>
 										</div>
 									</div>
 								</div>
