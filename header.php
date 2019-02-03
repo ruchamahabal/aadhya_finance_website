@@ -20,7 +20,14 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script type="text/javascript" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/js/jquery.min.js"></script>
+	<script type="text/javascript" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/js/jquery.min.js"></script>
+	
+	<!-- popover jquery -->
+	<script>
+		$(function () {
+			$('[data-toggle="popover"]').popover()
+			});
+	</script>
   </head>
   <body>
 <!-- mega menu -->

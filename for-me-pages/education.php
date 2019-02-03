@@ -1,8 +1,23 @@
 <?php include '../header.php'; ?>
 
+<section>
+ <div class="container-fluid">
+  <div class="row">
+    <div class="col">
+        <h2>Personal Loan for Education</h2>
+        <p class="lead">Whether your youngster wants to be a doctor, lawyer, or even and astronaut, money shouldn’t come in the way! With our quick and easy education loans, your child can explore their passions, focus on their degree, and watch their ambitions come to life! After all, education is an investment that never depreciates.</p>
+        <a href="#" class="btn btn-danger">Apply Now</a>
+    </div>
+    <div class="col">
+      <!-- animation will come here -->
+    </div>
+  </div>
+  </div>
+</section>
+
 <section id="services">
      <h3 class="heading" align="center">There’s more — here’s what else you get with Aadhya</h3>
-     <div class="container">
+     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4 col-sm-8">
                 <div class="serviceBox blue">
@@ -22,7 +37,7 @@
                     </div>
                     <h3 class="title">Customized repayment</h3>
                     <p class="description">
-                    Focus on doing the best for your child, and don’t worry about EMIs — choose a payment period from 3–48 months.
+                        Focus on doing the best for your child, and don’t worry about EMIs — choose a payment period from 3–48 months.
                     </p>
                 </div>
             </div>
@@ -33,7 +48,7 @@
                     </div>
                     <h3 class="title">Easy and quick approvals</h3>
                     <p class="description">
-                    We’ll make sure neither you nor your children experience any last-minute stress — your loan will be ready well in time.
+                        We’ll make sure neither you nor your children experience any last-minute stress — your loan will be ready well in time.
                     </p>
                 </div>
             </div>
@@ -42,7 +57,7 @@
 </section>
 
 <section id="process">
-<h3 class="heading" align="center">There’s more — here’s what else you get with Aadhya</h3>
+<h3 class="heading" align="center">The Process</h3>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -79,9 +94,100 @@
         </div>
     </div>
 </section>
+
+<section id="requirements">
+  <div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <h5>How do I check my eligibility for a personal loan for education from Aadhya Finance?</h5>
+      <p class="lead bold">If you’re</p>
+      <p>-Over 21 and under 58, while applying for the loan</p>
+      <p>-A salaried employee, with at least 6 months of experience in current company and total professional experience of at least 12 months</p>
+      <p>-Earning a minimum income of Rs. 20,000 per month</p>
+      <p class="lead bold">You’re eligible!</p>
+    </div>
+    <div class="col">
+      <!-- image will be added here  -->
+    </div>
+  </div>
+  </div>
+</section>
+
+<section id="docs">
+  <h3 class="heading" align="center">What documents do I need to submit to apply for a personal loan for education from Aadhya Finance?</h3>
+  <div class="container-fluid">
+  <div class="row row-eq-height">
+    <div class="col">
+      <center>
+      <div class="card border-primary mb-3 h-100">
+        <div class="card-header">
+            <img style="max-width:60px;" src="../assets/images/form.svg" alt="">
+        </div>
+        <div class="card-body">
+          <h6 class="card-title">Completed application form</h6>
+          <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+        </div>
+      </div>
+      </center>
+    </div>
+    <div class="col">
+      <center>
+      <div class="card border-danger mb-3 h-100">
+        <div class="card-header">
+            <img style="max-width:60px;" src="../assets/images/picture.svg" alt="">
+        </div>
+        <div class="card-body">
+          <h6 class="card-title">Recent passport-size photograph</h6>
+          <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+        </div>
+      </div>
+      </center>
+    </div>
+    <div class="col">
+      <center>
+      <div class="card border-success mb-3 h-100">
+        <div class="card-header">
+            <img style="max-width:60px;" src="../assets/images/fingerprint.svg" alt="">
+        </div>
+        <div class="card-body">
+          <h6 class="card-title">Identity (ID) Proof</h6>
+          <button type="button" class="btn btn-lg btn-success" data-toggle="popover" data-content="Aadhaar card, PAN card or Government ID (for government employees)">Know More</button>
+        </div>
+      </div>
+      </center>
+    </div>
+    <div class="col">
+      <center>
+      <div class="card border-info mb-3 h-100">
+        <div class="card-header">
+            <img style="max-width:60px;" src="../assets/images/house.svg" alt="">
+        </div>
+        <div class="card-body">
+          <h6 class="card-title">Address Proof</h6>
+          <button type="button" class="btn btn-lg btn-info" data-toggle="popover" data-content="Aadhaar card, in case current address is not updated in Aadhaar card, one certified copy of Official Valid Documents (OVD) is required. OVDs are: Passport, Voter’s ID, Driving License)">Know More</button>
+        </div>
+      </div>
+      </center>
+    </div>
+    <div class="col">
+        <center>
+        <div class="card border-warning mb-3 h-100">
+            <div class="card-header">
+                <img style="max-width:60px;" src="../assets/images/wallet.svg" alt="">
+            </div>
+            <div class="card-body">
+            <h6 class="card-title">Income Proof</h6>
+            <button type="button" class="btn btn-lg btn-warning" data-toggle="popover" data-content="Latest One month Pay slip or Form 16 for the current year" data-html="true">Know More</button>
+            </div>
+        </div>
+        </center>
+    </div>
+</div>
+</section>
+
 <section id="questions">
     <h3 class="heading" align="center">Questions</h3>
-    <div class="container">
+    <div class="container-fluid">
     <div class="accordion" id="accordionExample">
     <div class="card">
         <div class="card-header" id="headingOne">
