@@ -36,18 +36,18 @@
 <!-- mega menu -->
 <header class="site-header" role="banner">
 	<nav class="navbar navbar-expand-sm">
-		<!-- <img id="navbar-logo" src="assets/images/logo.jpeg" width="100" height="80" alt=""> -->
+
 			<button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbar">
 					<span class="navbar-toggler-icon"></span>
 			</button>
-			<span class="navbar-brand d-flex flex-fill">Brand</span>
+			<span class="navbar-brand "><img id="navbar-logo" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/assets/images/logo2.png" width="280" height="60" alt="" style="margin-left:40px;"></span>
 			<div class="navbar-collapse collapse" id="navbar">
 					<ul class="navbar-nav justify-content-center d-flex flex-fill">
 							<li class="nav-item dropdown">
 								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									For me
 								</a>
-								<div class="dropdown-menu mega-menu" aria-labelledby="navbarDropdown">
+								<div class="dropdown-menu mega-menu " aria-labelledby="navbarDropdown">
 								<div class="row">
 										<div class="col">
 											<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Cash In My Account</a>
