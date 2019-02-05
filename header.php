@@ -127,6 +127,24 @@
 							</li>
 					</ul>
 			</div>
+      <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Partner With Us</a>
+        <a href="#">Careers</a>
+        <a href="#">Blogs</a>
+      </div>
 			<div class="d-flex flex-fill"><!--spacer--> </div>
 	</nav>
+
+  <script type="text/javascript">
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+    }
+
+    function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+    }
+  </script>
 </header>
