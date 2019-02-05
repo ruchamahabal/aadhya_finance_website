@@ -1,7 +1,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/header.php'; ?>
 
 
-<section>
+<!-- <section>
   <div class="container-fluid">
   <div class="row">
     <div class="col">
@@ -12,10 +12,28 @@
       </div>
     </div>
     <div class="col">
-      <!-- animation will come here -->
+
     </div>
   </div>
 </div>
+</section> -->
+
+<!-- hero section -->
+<section id="hero">
+    <div class="container-fluid">
+    <div class="row">
+        <div class="col">
+        <div class="container">
+            <h2>Personal Loan for Travel</h2>
+            <p class="lead">Don’t let lack of money dampen your wanderlust. Take that solo vacation, family holiday, or long overdue honeymoon, because with our quick and easy personal loans for travel, all you need to do is start packing!</p>
+            <a href="#" class="btn btn-danger">Apply Now</a>
+        </div>
+        </div>
+        <div class="col">
+
+        </div>
+    </div>
+    </div>
 </section>
 
 
