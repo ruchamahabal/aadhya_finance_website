@@ -35,7 +35,7 @@
   <body>
 <!-- mega menu -->
 <header class="site-header" role="banner">
-	<nav class="navbar navbar-expand-sm">
+	<nav class="navbar fixed-top navbar-expand-sm">
 
 			<button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbar">
 					<span class="navbar-toggler-icon"></span>
