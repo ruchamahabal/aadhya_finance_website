@@ -31,6 +31,17 @@
   <!-- custom css -->
   <link rel="stylesheet" href= "<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/css/custom.css">
 
+  	<!-- transparent to solid navbar script -->
+	  <script type="text/javascript">
+		     $(window).on('scroll', function(){
+					 if($(window).scrollTop()){
+						 $('nav').addClass('solid');
+					 }
+					 else{
+						 $('nav').removeClass('solid');
+					 }
+				 })
+	  </script>
   </head>
   <body>
 <!-- mega menu -->
@@ -44,7 +55,7 @@
 			<div class="navbar-collapse collapse" id="navbar">
 					<ul class="navbar-nav justify-content-center d-flex flex-fill">
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link nav-link-outer dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									For me
 								</a>
 								<div class="dropdown-menu mega-menu " aria-labelledby="navbarDropdown">
@@ -72,7 +83,7 @@
 								</div>
 							</li>
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link nav-link-outer dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									For my business
 								</a>
 								<div class="dropdown-menu mega-menu" aria-labelledby="navbarDropdown">
@@ -94,7 +105,7 @@
 								</div>
 							</li>
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link nav-link-outer dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							 			EMI Calculators
 								</a>
 								<div class="dropdown-menu dropdown-menu-right mega-menu" aria-labelledby="navbarDropdown">

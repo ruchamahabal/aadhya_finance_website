@@ -28,7 +28,7 @@ body{
     background: transparent;
   }
 
-	.navbar-nav .nav-link {
+	.navbar-nav .nav-link-outer {
 		color :#fff;
 	}
   .navbar-nav li .active {
@@ -38,7 +38,10 @@ body{
     color: #235369;
   }
   nav.solid{
-    background: rgba(0,0,0,0.8);
+    background: #fff;
+  }
+  nav.solid .nav-link-outer{
+      color:#000;
   }
   .dropdown:hover>.dropdown-menu{
       display:block;
