@@ -36,9 +36,13 @@
 		     $(window).on('scroll', function(){
 					 if($(window).scrollTop()){
 						 $('nav').addClass('solid');
+						 $('.navbar-brand').addClass('d-flex')
+						 $('.navbar-brand').addClass('flex-fill')
 					 }
 					 else{
 						 $('nav').removeClass('solid');
+						 $('.navbar-brand').removeClass('d-flex')
+						 $('.navbar-brand').removeClass('flex-fill')
 					 }
 				 })
 	  </script>
@@ -51,7 +55,7 @@
 			<button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbar">
 					<span class="navbar-toggler-icon"></span>
 			</button>
-			<span class="navbar-brand "><img id="navbar-logo" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/assets/images/logo2.png" width="280" height="60" alt="" style="margin-left:40px;"></span>
+			<span class="navbar-brand"><img id="navbar-logo" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/assets/images/logo2.png" width="280" height="60" alt="" style="margin-left:40px;"></span>
 			<div class="navbar-collapse collapse" id="navbar">
 					<ul class="navbar-nav justify-content-center d-flex flex-fill">
 							<li class="nav-item dropdown">
