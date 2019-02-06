@@ -94,7 +94,7 @@
   <div class="row row-eq-height">
     <div class="col">
       <center>
-      <div class="card documents-cards border-primary mb-3">
+      <div class="card documents-cards border-primary ">
         <div class="card-header">
             <img style="max-width:60px;" src="../assets/images/form.svg" alt="">
         </div>
