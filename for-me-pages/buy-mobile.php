@@ -1,17 +1,15 @@
 <?php include '../header.php' ?>
 
-<section>
+<section id="hero-for-me-buy-mobile" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
         <h2>Mobile Phone Loans</h2>
         <p class="lead">Have you been eyeing that snazzy new smartphone for a while? Good news — you don’t have to wait months to save up. With Clix, you can apply for a mobile loan as soon as you spot that sleek model in the store! So try us now — you’ve waited long enough!</p>
         <a href="#" class="btn btn-danger">Apply Now</a>
     </div>
-    <div class="col">
-      <!-- animation will come here -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 
@@ -59,18 +57,16 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
       <h5>How do I check my eligibility for a mobile loan from Aadhya finance?</h5>
       <p class="lead bold">If you’re:</p>
       <p>-An individual between 21 and 60</p>
       <p>A salaried or self-employed person with a regular source of income.</p>
       <p class="lead bold">You’re eligible!</p>
     </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 

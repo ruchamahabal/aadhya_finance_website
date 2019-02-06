@@ -1,17 +1,15 @@
 <?php include '../header.php'; ?>
 
-<section>
+<section id="hero-for-me-home-renovation" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
         <h2>Home Renovation/Expansion</h2>
         <p class="lead">When change is the only constant in life, isn’t the same true for your home too? So, if you’re thinking about refurbishing your guest room or adding a spacious new balcony, our super-simple home improvement or extension loans are there for you.</p>
         <a href="#" class="btn btn-danger">Apply Now</a>
     </div>
-    <div class="col">
-      <!-- animation will come here -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 
@@ -48,8 +46,8 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
       <h5>How do I check my eligibility for a home improvement or extension loan from Aadhya Finance?</h5>
       <p class="lead bold">If you’re</p>
       <p>-Over 18 when applying for the loan and under 65 at the end of the loan tenure.</p>
@@ -58,10 +56,7 @@
       <p>-Annual household income is greater than Rs. 3 lacs</p>
       <p class="lead bold">You’re eligible!</p>
     </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+  </center>
   </div>
 </section>
 

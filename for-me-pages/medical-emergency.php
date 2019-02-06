@@ -1,14 +1,14 @@
 <?php include '../header.php'; ?>
 
-<section>
+<section id="hero-for-me-medical-emergency" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
         <h2> <center> Personal Loan for Medical Emergencies </center> </h2>
         <p class="lead" align="center">High hospital bills coming in the way of world-class medical care? We’ve got your back. With our simple loans for medical emergencies, money will no longer be a concern — just think of us as a friend who is there for you in sickness and in health.</p>
         <center><a href="#" class="btn btn-danger">Apply Now</a></center>
     </div>
-  </div>
+  </center>
   </div>
 </section>
 
@@ -95,8 +95,8 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
       <h5>How do I check my eligibility for a personal loan for medical emergency from Aadhya Finance?</h5>
       <p class="lead bold">If you’re</p>
       <p>-Over 21 and under 58, while applying for the loan</p>
@@ -104,10 +104,8 @@
       <p>-Earning a minimum income of Rs. 20,000 per month</p>
       <p class="lead bold">You’re eligible!</p>
     </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 

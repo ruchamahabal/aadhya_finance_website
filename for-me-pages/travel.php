@@ -19,7 +19,7 @@
 </section> -->
 
 <!-- hero section -->
-<section id="hero">
+<section id="hero-for-me-travel" class="for-me-pages">
     <div class="container-fluid">
       <center>
         <div class="container">
@@ -78,19 +78,14 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
       <h5>How do I check my eligibility for a personal loan for travel from Aadhya Finance?</h5>
       <p class="lead bold">If you’re</p>
       <p>-Over 21 and under 58, while applying for the loan</p>
       <p>-A salaried employee, with at least 6 months of experience in current company and total professional experience of at least 12 months</p>
       <p>-Earning a minimum income of Rs. 20,000 per month</p>
       <p class="lead bold">You’re eligible!</p>
-    </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+    </center>
 </div>
 </section>
 <section id="docs">

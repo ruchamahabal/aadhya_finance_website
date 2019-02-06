@@ -1,17 +1,14 @@
 <?php include '../header.php'; ?>
 
-<section>
+<section id="hero-for-me-education" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
-        <h2>Personal Loan for Education</h2>
-        <p class="lead">Whether your youngster wants to be a doctor, lawyer, or even and astronaut, money shouldn’t come in the way! With our quick and easy education loans, your child can explore their passions, focus on their degree, and watch their ambitions come to life! After all, education is an investment that never depreciates.</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
-    </div>
-    <div class="col">
-      <!-- animation will come here -->
-    </div>
-  </div>
+   <center>
+     <div class="container">
+       <h2>Personal Loan for Education</h2>
+       <p class="lead">Whether your youngster wants to be a doctor, lawyer, or even and astronaut, money shouldn’t come in the way! With our quick and easy education loans, your child can explore their passions, focus on their degree, and watch their ambitions come to life! After all, education is an investment that never depreciates.</p>
+       <a href="#" class="btn btn-danger">Apply Now</a>
+     </div>
+    </center>
   </div>
 </section>
 
@@ -97,19 +94,17 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+
       <h5>How do I check my eligibility for a personal loan for education from Aadhya Finance?</h5>
       <p class="lead bold">If you’re</p>
       <p>-Over 21 and under 58, while applying for the loan</p>
       <p>-A salaried employee, with at least 6 months of experience in current company and total professional experience of at least 12 months</p>
       <p>-Earning a minimum income of Rs. 20,000 per month</p>
       <p class="lead bold">You’re eligible!</p>
-    </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+
+
+  </center>
   </div>
 </section>
 

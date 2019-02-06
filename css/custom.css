@@ -84,18 +84,62 @@ body{
 
 
 /* ================ hero section ============ */
-#hero{
+#hero-for-me-travel{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.5)), url('../assets/images/for_me_images/travel.jpg') top left repeat;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.6)), url('../assets/images/for_me_images/travel.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-education{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/education.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-wedding{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/wedding.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-medical-emergency{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.6)), url('../assets/images/for_me_images/medical-emergency.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-home-renovation{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/home-renovation.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-loan-against-property{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/loan-against-property.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-buy-two-wheeler{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/buy-two-wheeler.jpg') top left repeat;
+    background-size: cover;
+  }
+#hero-for-me-buy-mobile{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.8)), url('../assets/images/for_me_images/buy-mobile.jpg') top left repeat;
     background-size: cover;
   }
 
-#hero .container-fluid {
+
+
+.for-me-pages .container-fluid {
 	padding-top:40vh;
 }
 
-#hero h2 {
+.for-me-pages h2 {
 	color: #fff;
 }
 
@@ -417,6 +461,13 @@ background: #57AACD;
 #questions .container{
     margin-bottom: 50px;
 }
+
+#requirements {
+	margin: 50px auto;
+	background: #eaeaea;
+	padding:100px 0;
+}
+
 
 /* =========================== Side nav  */
 .sidenav {

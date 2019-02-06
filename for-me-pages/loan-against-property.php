@@ -1,17 +1,15 @@
 <?php include '../header.php'; ?>
 
-<section>
+<section id="hero-for-me-loan-against-property" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
         <h2>Loan Against Property</h2>
         <p class="lead">In need of the big bucks? We at Aadhya Finance have got you covered with our loan against property/home equity loans. What does this mean? If you already own property, we’re here to give you a loan against it!</p>
         <a href="#" class="btn btn-danger">Apply Now</a>
     </div>
-    <div class="col">
-      <!-- animation will come here -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 
@@ -59,8 +57,8 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
       <h5>How do I check my eligibility for a loan against property from Aadhya Finance?</h5>
       <p class="lead bold">If you’re:</p>
       <p>-Over 18 when applying for the loan and under 65 at the end of the loan tenure.</p>
@@ -69,10 +67,8 @@
       <p>-Annual household income is greater than Rs. 3 lakhs</p>
       <p class="lead bold">You’re eligible!</p>
     </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
-  </div>
+
+  </center>
   </div>
 </section>
 

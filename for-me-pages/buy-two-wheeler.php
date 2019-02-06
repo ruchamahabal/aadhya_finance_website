@@ -1,17 +1,14 @@
 <?php include '../header.php'; ?>
 
-<section>
+<section id="hero-for-me-buy-two-wheeler" class="for-me-pages">
  <div class="container-fluid">
-  <div class="row">
-    <div class="col">
+  <center>
+    <div class="container">
         <h2>2 Wheeler Loan</h2>
         <p class="lead">Zip through traffic on your lean, mean machine! Here’s how — just apply for our quick and easy two-wheeler or bike loans, and soon, an exhausting daily commute will only be a distant memory.</p>
         <a href="#" class="btn btn-danger">Apply Now</a>
     </div>
-    <div class="col">
-      <!-- animation will come here -->
-    </div>
-  </div>
+  </center>
   </div>
 </section>
 
