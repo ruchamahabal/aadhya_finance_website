@@ -19,7 +19,7 @@
 </section> -->
 
 <!-- hero section -->
-<section id="hero">
+<section id="hero-for-me-travel" class="for-me-pages">
     <div class="container-fluid">
       <center>
         <div class="container">
@@ -34,7 +34,7 @@
 
 <section id="services">
      <h3 class="heading" align="center">With Aadhya Finance, you enjoy</h3>
-     <div class="container-fluid">
+     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="serviceBox blue">
@@ -92,6 +92,7 @@
   <div class="container-fluid">
   <div class="row">
     <div class="col">
+      <center>
       <h5>How do I check my eligibility for a loan for a business loan from Aadhya Finance?</h5>
       <p class="lead bold">If you’re</p>
       <p>-Are at least 21 while applying for the loan and under 65 at the end of its tenure</p>
@@ -101,9 +102,7 @@
       <p>-Has audited financial statements for the last 24 months</p>
       <p>-Is a going concern in the current area of work for a minimum period of 36 months, with 5 years of total business vintage</p>
       <p class="lead bold">You’re eligible!</p>
-    </div>
-    <div class="col">
-      <!-- image will be added here  -->
+      </center>
     </div>
   </div>
 </div>
