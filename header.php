@@ -96,14 +96,14 @@
 												<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Cash In The A/C</a>
 												<div class="dropdown-divider"></div>
 												<h6 class="nav-sub-heading">Business Loans</h6>
-												<a class="dropdown-item" href="#"><i class="fas fa-chart-line"></i>Business Expansion</a>
+												<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/business-expansion.php"><i class="fas fa-chart-line"></i>Business Expansion</a>
 												<h6 class="nav-sub-heading">Working Capital</h6>
-												<a class="dropdown-item" href="#"><i class="far fa-credit-card"></i>Merchant Cash Advance</a>
+												<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/merchant-cash-advance.php"><i class="far fa-credit-card"></i>Merchant Cash Advance</a>
 											</div>
 											<div class="col">
 												<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Buy/Lease</a>
 												<div class="dropdown-divider"></div>
-												<a class="dropdown-item" href="#"><i class="fas fa-file-medical-alt"></i>Healthcare Equipment</a>
+												<a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/healthcare-equipment.php"><i class="fas fa-file-medical-alt"></i>Healthcare Equipment</a>
 											</div>
 										</div>
 								</div>
