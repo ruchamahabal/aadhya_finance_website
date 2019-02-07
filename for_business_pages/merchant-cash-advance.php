@@ -19,7 +19,7 @@
 </section> -->
 
 <!-- hero section -->
-<section id="hero-for-me-travel" class="for-me-pages">
+<section id="hero-for-business-merchant-cash" class="for-me-pages">
     <div class="container-fluid">
       <center>
         <div class="container">
