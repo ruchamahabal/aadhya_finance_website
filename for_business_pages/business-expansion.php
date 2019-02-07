@@ -19,7 +19,7 @@
 </section> -->
 
 <!-- hero section -->
-<section id="hero">
+<section id="hero-for-business-loan" class="for-me-pages">
     <div class="container-fluid">
       <center>
         <div class="container">
@@ -90,23 +90,20 @@
 
 <section id="requirements">
   <div class="container-fluid">
-  <div class="row">
-    <div class="col">
-      <h5>How do I check my eligibility for a loan for a business loan from Aadhya Finance?</h5>
-      <p class="lead bold">If you’re</p>
-      <p>-Are at least 21 while applying for the loan and under 65 at the end of its tenure</p>
-      <p class="lead bold">If your business:</p>
-      <p>-Is a proprietorship/private limited company/closely held non-listed company/ partnership firm involved in the business of manufacturing, trading or services</p>
-      <p>-Has a minimum turnover of Rs 1 crore</p>
-      <p>-Has audited financial statements for the last 24 months</p>
-      <p>-Is a going concern in the current area of work for a minimum period of 36 months, with 5 years of total business vintage</p>
-      <p class="lead bold">You’re eligible!</p>
-    </div>
-    <div class="col">
-      <!-- image will be added here  -->
-    </div>
+    <center>
+      <div class="container">
+        <h5>How do I check my eligibility for a loan for a business loan from Aadhya Finance?</h5>
+        <p class="lead bold">If you’re</p>
+        <p>-Are at least 21 while applying for the loan and under 65 at the end of its tenure</p>
+        <p class="lead bold">If your business:</p>
+        <p>-Is a proprietorship/private limited company/closely held non-listed company/ partnership firm involved in the business of manufacturing, trading or services</p>
+        <p>-Has a minimum turnover of Rs 1 crore</p>
+        <p>-Has audited financial statements for the last 24 months</p>
+        <p>-Is a going concern in the current area of work for a minimum period of 36 months, with 5 years of total business vintage</p>
+        <p class="lead bold">You’re eligible!</p>
+      </div>
+    </center>
   </div>
-</div>
 </section>
 <section id="docs">
   <h3 class="heading" align="center">What documents do I need to submit with my application for a business loan?</h3>

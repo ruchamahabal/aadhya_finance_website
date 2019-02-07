@@ -65,7 +65,6 @@
       <p>A salaried or self-employed person with a regular source of income.</p>
       <p class="lead bold">You’re eligible!</p>
     </div>
-
   </center>
   </div>
 </section>
