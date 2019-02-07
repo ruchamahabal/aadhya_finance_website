@@ -34,7 +34,7 @@
 
 <section id="services">
      <h3 class="heading" align="center">With Aadhya Finance, you enjoy</h3>
-     <div class="container-fluid">
+     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="serviceBox blue">
@@ -90,6 +90,7 @@
 
 <section id="requirements">
   <div class="container-fluid">
+<<<<<<< HEAD
     <center>
       <div class="container">
         <h5>How do I check my eligibility for a loan for a business loan from Aadhya Finance?</h5>
@@ -103,6 +104,22 @@
         <p class="lead bold">You’re eligible!</p>
       </div>
     </center>
+=======
+  <div class="row">
+    <div class="col">
+      <center>
+      <h5>How do I check my eligibility for a loan for a business loan from Aadhya Finance?</h5>
+      <p class="lead bold">If you’re</p>
+      <p>-Are at least 21 while applying for the loan and under 65 at the end of its tenure</p>
+      <p class="lead bold">If your business:</p>
+      <p>-Is a proprietorship/private limited company/closely held non-listed company/ partnership firm involved in the business of manufacturing, trading or services</p>
+      <p>-Has a minimum turnover of Rs 1 crore</p>
+      <p>-Has audited financial statements for the last 24 months</p>
+      <p>-Is a going concern in the current area of work for a minimum period of 36 months, with 5 years of total business vintage</p>
+      <p class="lead bold">You’re eligible!</p>
+      </center>
+    </div>
+>>>>>>> 7bc5297ea802f96300315f63ddf8797592edef5e
   </div>
 </section>
 <section id="docs">
