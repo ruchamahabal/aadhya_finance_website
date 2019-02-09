@@ -6,7 +6,7 @@
     <div class="container">
         <h2> <center> Personal Loan for Medical Emergencies </center> </h2>
         <p class="lead" align="center">High hospital bills coming in the way of world-class medical care? We’ve got your back. With our simple loans for medical emergencies, money will no longer be a concern — just think of us as a friend who is there for you in sickness and in health.</p>
-        <center><a href="#" class="btn btn-danger">Apply Now</a></center>
+        <center><a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a></center>
     </div>
   </center>
   </div>

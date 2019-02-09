@@ -19,13 +19,13 @@
 </section> -->
 
 <!-- hero section -->
-<section id="hero-for-me-travel" class="for-me-pages">
+<section id="hero-for-me-travel" class="for-me-pages" data-type="background" data-speed="5">
     <div class="container-fluid">
       <center>
         <div class="container">
             <h2>Personal Loan for Travel</h2>
             <p class="lead">Don’t let lack of money dampen your wanderlust. Take that solo vacation, family holiday, or long overdue honeymoon, because with our quick and easy personal loans for travel, all you need to do is start packing!</p>
-            <a href="#" class="btn btn-danger">Apply Now</a>
+            <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
         </div>
       </center>
     </div>

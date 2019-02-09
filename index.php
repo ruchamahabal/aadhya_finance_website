@@ -13,7 +13,7 @@
                     <h4><p class="mb-0 font-italic">Want a loan for yourself or your business?</p></h4><br>
                     <a href="#services" class="btn btn-outline-light" role="button" aria-pressed="true">Know More</a>
                 </div>
-            </div>            
+            </div>
         </div>
 </section>
 
@@ -62,5 +62,6 @@
         </div>
     </div>
 </section>
+
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/aadhyafinance/footer.php'; ?>

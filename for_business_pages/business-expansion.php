@@ -25,7 +25,7 @@
         <div class="container">
             <h2>Business Loan</h2>
             <p class="lead">We don’t believe any ambition is too big or too small. Whether you are looking to replenish the inventory of your general store, expand your cafe, or run a gym, you can apply for our unsecured business loans. Use them for anything from capital expansion to equipment purchases — just consider us partners in your entrepreneurial journey.</p>
-            <a href="#" class="btn btn-danger">Apply Now</a>
+            <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
         </div>
       </center>
     </div>

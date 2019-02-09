@@ -6,7 +6,7 @@
     <div class="container">
         <h2>2 Wheeler Loan</h2>
         <p class="lead">Zip through traffic on your lean, mean machine! Here’s how — just apply for our quick and easy two-wheeler or bike loans, and soon, an exhausting daily commute will only be a distant memory.</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
   </center>
   </div>

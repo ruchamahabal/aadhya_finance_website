@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Mobile Phone Loans</h2>
         <p class="lead">Have you been eyeing that snazzy new smartphone for a while? Good news — you don’t have to wait months to save up. With Clix, you can apply for a mobile loan as soon as you spot that sleek model in the store! So try us now — you’ve waited long enough!</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>

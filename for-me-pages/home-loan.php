@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Home Loans</h2>
         <p class="lead">You could soon be lounging in your very own living room — be it in a swanky new apartment or a suburban bungalow. Here’s how — with Clix Capital’s home loans, the house you’ve always dreamt of is just a few Clix away! We suggest you just get started on picking a neighborhood.</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>

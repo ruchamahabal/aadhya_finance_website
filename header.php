@@ -35,7 +35,7 @@
 	  <script type="text/javascript">
 		     $(window).on('scroll', function(){
 					 if($(window).scrollTop()){
-						 $('nav').addClass('solid');
+						 $('#desktop-nav').addClass('solid');
 						 $('.navbar-brand').addClass('d-flex')
 						 $('.navbar-brand').addClass('flex-fill')
 					 }
@@ -50,12 +50,12 @@
   <body>
 <!-- mega menu -->
 <header class="site-header" role="banner">
-	<nav class="navbar fixed-top navbar-expand-sm">
+	<nav id="desktop-nav" class="navbar fixed-top navbar-expand-sm">
 
 			<button class="navbar-toggler mr-2" type="button" data-toggle="collapse" data-target="#navbar">
 					<span class="navbar-toggler-icon"></span>
 			</button>
-			<span class="navbar-brand"><img id="navbar-logo" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/assets/images/logo2.png" width="280" height="60" alt="" style="margin-left:40px;"></span>
+			<a class="navbar-brand" href="../index.php"><img id="navbar-logo" src="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/assets/images/logo2.png" width="280" height="60" alt="" style="margin-left:40px;"></a>
 			<div class="navbar-collapse collapse" id="navbar">
 					<ul class="navbar-nav justify-content-center d-flex flex-fill">
 							<li class="nav-item dropdown">
@@ -137,6 +137,65 @@
       </div>
 			<div class="d-flex flex-fill"><!--spacer--> </div>
 	</nav>
+
+  <nav id="mobile-nav" class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Aadhya finance</a>
+  <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon justify-content-right"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          For Me
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/travel.php"><i class="fas fa-plane"></i>Travel</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/education.php"><i class="fas fa-graduation-cap"></i>Education</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/wedding.php"><i class="fas fa-heart"></i>Wedding</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/medical-emergency.php"><i class="fas fa-wheelchair"></i>Medical Emergency</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/home-renovation-or-expansion.php"><i class="fas fa-house-damage"></i>Home Renovation/Expansion</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for-me-pages/loan-against-property.php"><i class="far fa-building"></i>Loan Against Property</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          For My Business
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/business-expansion.php"><i class="fas fa-chart-line"></i>Business Expansion</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/merchant-cash-advance.php"><i class="far fa-credit-card"></i>Merchant Cash Advance</a>
+          <a class="dropdown-item" href="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/for_business_pages/healthcare-equipment.php"><i class="fas fa-file-medical-alt"></i>Healthcare Equipment</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          EMI Calculators
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Contact Us <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Partner With Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Career</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Blog</a>
+      </li>
+    </ul>
+
+  </div>
+</nav>
 
   <script type="text/javascript">
   function openNav() {

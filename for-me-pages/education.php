@@ -6,7 +6,7 @@
      <div class="container">
        <h2>Personal Loan for Education</h2>
        <p class="lead">Whether your youngster wants to be a doctor, lawyer, or even and astronaut, money shouldn’t come in the way! With our quick and easy education loans, your child can explore their passions, focus on their degree, and watch their ambitions come to life! After all, education is an investment that never depreciates.</p>
-       <a href="#" class="btn btn-danger">Apply Now</a>
+       <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
      </div>
     </center>
   </div>

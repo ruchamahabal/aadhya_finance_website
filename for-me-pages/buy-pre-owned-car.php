@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Pre Owned Car Loans</h2>
         <p class="lead">Upgrading from a two-wheeler or just tired of your daily struggle with public transport? We’re here to help. Now you can have your own ride, without breaking the bank — thanks to our easy pre-owned or used car loans!</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>

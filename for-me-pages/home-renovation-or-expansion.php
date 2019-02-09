@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Home Renovation/Expansion</h2>
         <p class="lead">When change is the only constant in life, isn’t the same true for your home too? So, if you’re thinking about refurbishing your guest room or adding a spacious new balcony, our super-simple home improvement or extension loans are there for you.</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>

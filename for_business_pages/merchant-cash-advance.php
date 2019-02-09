@@ -26,7 +26,7 @@
             <h2>Loan Against Electronic Payments (LAEP)</h2>
             <p class="lead">(Loan Against Card Receivables/ Merchant Advance/ Working Capital Loan)
 If you run a business that accepts electronic payments and need funds, you just got lucky. Now, we’ll give you loans almost instantly against the electronic card payments you receive at your store. Now, you can grow your business with every swipe!</p>
-            <a href="#" class="btn btn-danger">Apply Now</a>
+            <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
         </div>
       </center>
     </div>

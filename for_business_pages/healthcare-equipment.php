@@ -25,7 +25,7 @@
         <div class="container">
             <h2>Healthcare Equipment Finance</h2>
             <p class="lead">Looking to expand your clinic or upgrade your equipment? Then board the Clix Express to enjoy healthcare equipment finance (loans/lease) that’s are designed just for you. With our easy process and quick approvals, you’ll soon be one step closer to providing world-class healthcare.</p>
-            <a href="#" class="btn btn-danger">Apply Now</a>
+            <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
         </div>
       </center>
     </div>

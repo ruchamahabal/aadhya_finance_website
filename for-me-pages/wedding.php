@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Personal Loan for Wedding</h2>
         <p class="lead">This is the day you make memories to last a lifetime. So, be it a grand celebration or an intimate ceremony, your special day should be nothing less than your wedding goals — with a little help from Aadhya Finance, of course.</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>

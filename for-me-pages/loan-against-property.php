@@ -6,7 +6,7 @@
     <div class="container">
         <h2>Loan Against Property</h2>
         <p class="lead">In need of the big bucks? We at Aadhya Finance have got you covered with our loan against property/home equity loans. What does this mean? If you already own property, we’re here to give you a loan against it!</p>
-        <a href="#" class="btn btn-danger">Apply Now</a>
+        <a href="#" class="btn btn-danger" data-toggle="modal" data-target="#applyNowModal">Apply Now</a>
     </div>
 
   </center>
