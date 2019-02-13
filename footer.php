@@ -4,17 +4,32 @@
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+            <h5 class="modal-title" id="exampleModalLabel">Apply</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body">
-            Coming Soon
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            <button type="button" class="btn btn-primary">Apply Now</button>
+            <form method="post" action="<?php $_SERVER['DOCUMENT_ROOT']?>/aadhyafinance/mail.php">
+                <div class="form-group">
+                    <label for="InputName1">Name</label>
+                    <input type="text" class="form-control" name="name" id="Name" placeholder="Enter Name" required>
+                </div>
+                <div class="form-group">
+                    <label for="InputContact1">Contact No</label>
+                    <input type="number" min="10"  class="form-control" name="phone" id="Phone"  placeholder="Enter Phone Number" required>
+                </div>
+                <div class="form-group">
+                    <label for="InputEmail1">Email address</label>
+                    <input type="email" class="form-control" name="email" id="Email" aria-describedby="emailHelp" placeholder="Enter email" required>
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+                <div class="form-group">
+                  <label for="exampleFormControlTextarea1">Message</label>
+                  <textarea name="message" id="Message" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                </div>
+                <button type="submit" name="submit" class="btn btn-success">Apply</button>
+              </form><!--form apply-->
           </div>
         </div>
       </div>
