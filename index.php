@@ -3,7 +3,7 @@
 <section id="index-hero-section">
         <div class="overlay"></div>
         <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-            <source src="assets/city-timelapse1.mp4" type="video/mp4">
+            <source src="assets/city-timelapse.webm" type="video/mp4">
         </video>
         <div class="container h-100" id="content">
             <div class="d-flex h-100 text-center align-items-center">
